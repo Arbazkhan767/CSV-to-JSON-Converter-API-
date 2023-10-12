@@ -1,3 +1,4 @@
+// This API converts data form csv file into json and uploads the data to Postgresql.
 const express = require('express');
 const app = express();
 const port = 3000;
